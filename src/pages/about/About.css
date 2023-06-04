@@ -16,7 +16,7 @@
   justify-content: center;
 }
 .section__title {
-  font-size: var(--big-font-size);
+  font-size: 45px;
   font-weight: var(--weight-800);
   text-align: center;
   padding-block: 30px;
